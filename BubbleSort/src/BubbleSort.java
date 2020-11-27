@@ -16,7 +16,7 @@ public class BubbleSort {
 		System.out.println(IterationCounter +" Iteration: "+ Arrays.toString(numbers)); //Displays the iteration array
 
 
-		//make a while loop doing these iterations, and check if the array has been fully sorted and display how many bubble sort iterations there were
+		
 
 	}
 	
